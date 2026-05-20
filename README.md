@@ -2,7 +2,7 @@
 
 ### Cenk Çetin 
 
-Sr. Designer | Web Developer | AI & LLM Specialist
+Senior Designer • Developer • AI Systems
 <br>
 <br>
 I have a multidisciplinary vision that brings design and software development together. Building hands-on experience from an early age, I have specialized in design, web development, digital marketing, e-commerce, and SEO. Today, I deliver end-to-end solutions that empower brands to scale their digital assets.
