@@ -10,18 +10,6 @@ I have a multidisciplinary vision that brings design and software development to
 Keeping pace with the speed of technological evolution, I am currently focusing heavily on machine learning and LLMs (Large Language Models). As I advance in my academic journey, I continue to generate innovative value within the modern software ecosystem.
 <br>
 <br>
-[Read about the website & projects, or get info about CENG](https://ceng.tr)
-<br>
-<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thisiscenkcetin)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dev.cenkcetin@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/cenk.php)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://behance.net/cenkcetin)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://cenkcetin.medium.com/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/905525927390)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/thisiscenkcetin)
-<br>
-<br>
 ## 💻 Skills 
 
 ### Frontend
