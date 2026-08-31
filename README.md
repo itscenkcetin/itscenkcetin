@@ -38,7 +38,4 @@ SEO & Content Strategy • Social Media Management • KVKK & GDPR Compliance �
 
 ### 3D Printing & Additive Manufacturing
 Industrial Prototyping • 3D Mesh Repair & Editing • Material Expertise(Polycarbonate, ABS, TPU, PLA) • Print Optimization
-
-<br>
-<br>
 </div>
