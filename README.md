@@ -10,7 +10,7 @@ I have a multidisciplinary vision that brings design and software development to
 Keeping pace with the speed of technological evolution, I am currently focusing heavily on machine learning and LLMs (Large Language Models). As I advance in my academic journey, I continue to generate innovative value within the modern software ecosystem.
 <br>
 <br>
-## 💻 Skills 
+## Skills 
 
 ### Frontend
 JavaScript • TypeScript • React.js • Tailwind CSS • Figma
