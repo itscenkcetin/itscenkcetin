@@ -16,7 +16,7 @@ Keeping pace with the speed of technological evolution, I am currently focusing 
 JavaScript • TypeScript • React.js • Tailwind CSS • Figma
 
 ### Backend
-C# • .NET • Node.js • Python • PHP • SQL(MySQL, PostgreSQL) • OOP & SDLC • WordPress & E-Commerce • Git - GitHub/GitLab
+C# • .NET • Node.js • Python • PHP • SQL(PostgreSQL, MySQL, MSSQL, SQLite, MariaDB) • Oracle Database • OOP & SDLC • WordPress & E-Commerce • Git - GitHub/GitLab
 
 ### Design Tools
 Adobe Photoshop • Illustrator • Premiere Pro • After Effects • Audition / Audacity • CorelDRAW
