@@ -5,11 +5,11 @@
 Senior Designer • Developer • AI Systems
 <br>
 <br>
-I bring a multidisciplinary vision that integrates design, software development, and advanced technologies. Having gained hands-on experience in the media and technology industries from an early age, I have developed expertise in digital design, software engineering, web technologies, digital marketing, e-commerce, and SEO. With an entrepreneurial mindset, I bridge creative and technical disciplines to deliver end-to-end digital solutions for brands.
+I began my career at an early age, gaining hands-on experience behind the scenes of the media and technology industries. Over the years, I have built a multidisciplinary background in digital design, web technologies, software development, e-commerce, and digital marketing. Combining this experience with an entrepreneurial mindset, I deliver end-to-end digital solutions for brands.
 
-My work spans frontend and backend development, UI/UX design, data science, business intelligence, cloud computing, system architecture, and cybersecurity. I am particularly focused on Generative AI, Machine Learning, Large Language Models (LLMs), AI-driven automation, and LLMOps, while also developing projects in IoT, hardware technologies, and embedded systems.
+My technical work spans frontend and backend development, UI/UX design, data analytics, cloud computing, and cybersecurity. Recently, I have been focusing primarily on Generative AI, Machine Learning, Large Language Models (LLMs), and intelligent automation systems, while also developing projects involving IoT, hardware technologies, and embedded systems.
 
-Alongside my academic journey, I continue to integrate software engineering, artificial intelligence, and engineering disciplines to create innovative, scalable, and sustainable technological solutions.
+Alongside my academic studies, I continue to combine industry experience with emerging technologies, developing my own products, systems, and digital ventures.
 <br>
 <br>
 ## Skills 
